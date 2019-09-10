@@ -1,7 +1,6 @@
 *.swp
 *.swo
 *.o
-build
 *.lock*
 binding.node
 examples/stress-test-client
@@ -18,7 +17,6 @@ docs
 npm-debug.log
 prebuilds
 zmq-build.log
-windows/lib/libzmq.lib
 
 # Coverage directory used by tools like istanbul
 coverage
